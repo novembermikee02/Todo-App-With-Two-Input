@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Todo-App-With-Two-Input/static/css/main.945ed025.chunk.css",
+    "main.js": "/Todo-App-With-Two-Input/static/js/main.a11d3e10.chunk.js",
+    "main.js.map": "/Todo-App-With-Two-Input/static/js/main.a11d3e10.chunk.js.map",
+    "runtime-main.js": "/Todo-App-With-Two-Input/static/js/runtime-main.84ce791e.js",
+    "runtime-main.js.map": "/Todo-App-With-Two-Input/static/js/runtime-main.84ce791e.js.map",
+    "static/js/2.eaa95218.chunk.js": "/Todo-App-With-Two-Input/static/js/2.eaa95218.chunk.js",
+    "static/js/2.eaa95218.chunk.js.map": "/Todo-App-With-Two-Input/static/js/2.eaa95218.chunk.js.map",
+    "static/js/3.9214bc1d.chunk.js": "/Todo-App-With-Two-Input/static/js/3.9214bc1d.chunk.js",
+    "static/js/3.9214bc1d.chunk.js.map": "/Todo-App-With-Two-Input/static/js/3.9214bc1d.chunk.js.map",
+    "index.html": "/Todo-App-With-Two-Input/index.html",
+    "static/css/main.945ed025.chunk.css.map": "/Todo-App-With-Two-Input/static/css/main.945ed025.chunk.css.map",
+    "static/js/2.eaa95218.chunk.js.LICENSE.txt": "/Todo-App-With-Two-Input/static/js/2.eaa95218.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84ce791e.js",
+    "static/js/2.eaa95218.chunk.js",
+    "static/css/main.945ed025.chunk.css",
+    "static/js/main.a11d3e10.chunk.js"
+  ]
+}
